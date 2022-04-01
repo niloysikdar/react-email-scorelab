@@ -11,6 +11,12 @@
 - generateEmail
 - generateTextEmail
 
+## Current style overrides
+
+- [Typography](https://github.com/niloysikdar/react-email-scorelab/blob/main/src/components/Typography.tsx#L5) using `sx` props
+
+- Same can be implemented for other components also
+
 ## Output
 
 ### generateEmail() function returns a minified HTML
