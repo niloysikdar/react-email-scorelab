@@ -32,5 +32,5 @@
 ### Screenshot
 
 <p align="center">
-  <img src="https://imgur.com/3ZQuG3d.png" alt="Screenshot" width="75%">
+  <img src="https://imgur.com/3ZQuG3d.png" alt="Screenshot" width="100%">
 </p>
