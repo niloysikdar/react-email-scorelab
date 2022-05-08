@@ -6,5 +6,3 @@ import Section from './components/Section';
 import Typography from './components/Typography';
 
 export { Column, Divider, Email, Image, Section, Typography };
-
-export { generateEmail, generateTextEmail } from './utils';
