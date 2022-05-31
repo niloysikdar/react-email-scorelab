@@ -19,7 +19,7 @@
     "prepare": "npx husky install",
     "build": "rollup -c",
     "watch": "tsc --watch",
-    "cm": "cz",
+    "commit": "git add . && cz",
     "lint": "eslint src/**/* --fix",
     "prettier:fix": "prettier --write .",
     "prettier:check": "prettier --check .",
