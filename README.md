@@ -1,5 +1,13 @@
 # react-email
 
+## **This is just a proof of concept for the React Email project for the Google Summer of Code 2022**
+
+### **Selected project page of GSoC'22: [link](https://summerofcode.withgoogle.com/programs/2022/projects/YpuqZEdd)**
+
+### **Original project code repository: [leopardslab/react-email](https://github.com/leopardslab/react-email)**
+
+<br/>
+
 ## Current imports availabe
 
 - Column
